@@ -20,8 +20,8 @@ module.exports = function (grunt, options) {
     return {
         dist: {
             options: {
-                banner: banner,
-                footer: '\n}));'
+                // banner: banner,
+                // footer: '\n}));'
             },
             src: [
                 'src/directives/openlayers.js',
