@@ -17,11 +17,6 @@
     "cli"
   ],
   "license": "MIT",
-  "dependencies": {
-      "angular": "~1.4.8",
-      "angular-sanitize": "~1.4.8",
-      "openlayers": "~3.8"
-  },
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-bower-task": "~0.4.0",
